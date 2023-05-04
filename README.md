@@ -2,7 +2,7 @@
 
 ## Thông tin ứng dụng
 - Tên ứng dụng: **Quản lý trung tâm ngoại ngữ**
-- Mã nguồn: https://github.com/MinkuruDev/OOPLearning/tree/master/SV24/NguyenTrungVinh/GHP
+- Mã nguồn: https://github.com/MinkuruDev/GHP_OOP
 - Người thực hiện: ***[Nguyễn Trung Vĩnh](https://github.com/MinkuruDev)***
 - Ngôn ngữ chính: **Java**
 - Ngày code: **13/04/2023**
@@ -11,8 +11,14 @@
 ## Hướng dẫn sử dụng
 
 ### Chạy ứng dụng
+***Cách 1***
 - Sử dụng IDE ***[IntelliJ IDEA](https://www.jetbrains.com/idea/)***
 - Chạy File ***Application.java***
+
+***Cách 2 (Windows)***
+- Giải nén file **QLTrungTamNgoaiNgu_NguyenTrungVinh.rar**
+- Chạy file **QLTTNN.exe**
+- Chú ý luôn để folder **Data** trong cùng một folder cha với **QLTTNN.exe**
 
 ### Đăng nhập
 - Tên đăng nhập: admin
